@@ -103,11 +103,11 @@ style.css or theme file – change colors/fonts/images
 
 📸 Screenshots
 
----<img width="1366" height="768" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/967c2320-444b-4483-9921-c977d44eb039" />
 
 
 
 
+<img width="1366" height="636" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/9c1b9d20-b3c5-41e1-8687-f656b88fa9cb" />
 
 
 	
